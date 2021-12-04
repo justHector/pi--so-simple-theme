@@ -18,8 +18,8 @@
 remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
-title: "Pi2 So Simple"
-description: "2_A simple Jekyll theme for words and pictures."
+title: "Pi--So--Simple"
+description: "A--simple--Jekyll--theme--for--words--and--pictures."
 baseurl: "/pi--so-simple-theme"
 url: "https://mmistakes.github.io"
 logo: "/images/so-simple-site-logo.png"
