@@ -20,7 +20,7 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Pi2 So Simple"
 description: "2_A simple Jekyll theme for words and pictures."
-baseurl: "/pi2--so-simple-theme"
+baseurl: "/pi--so-simple-theme"
 url: "https://mmistakes.github.io"
 logo: "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
@@ -35,12 +35,12 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: "UA-2011187-2"
+#google_analytics: "UA-2011187-2"
 disqus:
   shortname: "sosimpletheme"
 twitter:
   username: "mmistakes"
-google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
+#google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
 
 # Liquid
 liquid:
